@@ -1,0 +1,1 @@
+# static-lighthouse-ci
