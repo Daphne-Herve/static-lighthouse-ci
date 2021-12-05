@@ -1,0 +1,20 @@
+{
+  "name": "lighthouse-ci-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lighthouserc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve:lhci": "NODE_ENV=production npm run server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daphne-Herve/static-lighthouse-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daphne-Herve/static-lighthouse-ci/issues"
+  },
+  "homepage": "https://github.com/Daphne-Herve/static-lighthouse-ci#readme"
+}
